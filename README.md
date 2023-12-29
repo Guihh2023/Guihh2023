@@ -1,6 +1,6 @@
 ### olá DEVs! Eu sou Guihh2023.
 
-- 📚 estudando front-end.
+- 💻 Desenvolvidor web.
 - 📫 contato no e-mail: linderme94@gmail.com
 - 😄 Pronouns: ele/dele.
 <div style="display: inline_block"><br>
