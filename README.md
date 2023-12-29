@@ -1,7 +1,7 @@
 ### olá DEVs! Eu sou Guihh2023.
 
 - 📚 estudando front-end.
-- 📫 contato no e-mail: guilhermeBandeira000@gmail.com
+- 📫 contato no e-mail: linderme94@gmail.com
 - 😄 Pronouns: ele/dele.
 <div style="display: inline_block"><br>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=Guihh2023&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent"/>
