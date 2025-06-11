@@ -1,6 +1,6 @@
-### olá DEVs! Eu sou Guihh2023.
+### olá DEVs! Eu sou Guilherme.
 
-- 💻 Desenvolvedor web.
+- 💻 Desenvolvedor web, fazendo Graduação em (ADS)📚.
 - 📫 contato no e-mail: linderme94@gmail.com
 - 😄 Pronouns: ele/dele.
 <div style="display: inline_block"><br>
